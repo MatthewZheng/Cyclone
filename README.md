@@ -1,3 +1,6 @@
+#Cyclone
+Uses Google OCR and Tesseract to read text off slides or presentations and updates them in Google Documents and sends the text as an email.
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
